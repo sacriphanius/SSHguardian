@@ -1,5 +1,5 @@
 # SSHguardian
-Show connect via SSH devices IP and See Commands in Linux Terminal
+Monitor connect via SSH devices IP and See Commands in Linux Terminal
 
 
 First chmod +x SSHinsider.sh SSHstalker.sh
